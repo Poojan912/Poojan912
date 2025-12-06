@@ -11,7 +11,7 @@
 
 - 👨‍💻 All of my projects are available at [https://poojan912.github.io/Portfolio_website/](https://poojan912.github.io/Portfolio_website/)
 
-- 📫 How to reach me **You can email me at thakkarpoojan912@gmail.com.**
+- 📫 How to reach me **You can email me at poojanakhani912@gmail.com.**
 
 - ⚡ Fun fact **"I think I am funny, and I enjoy making complex tech concepts easy and fun to learn!**
 
